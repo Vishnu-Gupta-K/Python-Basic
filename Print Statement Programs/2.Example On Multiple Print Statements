@@ -1,6 +1,10 @@
 print('Welcome To')
 print('Github Basic Repository')
 
-# Expected Output
+#Expected Output
 # Welcome To
 # Github Basic Repository
+
+#Try These Questions 
+1. Display Your Name,School Name And College Name ?
+2. Display Your Name,Father Name And Mother Name ?
